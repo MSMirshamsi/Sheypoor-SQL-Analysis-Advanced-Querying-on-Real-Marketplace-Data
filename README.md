@@ -53,15 +53,4 @@ It shows the ability to:
 
 ---
 
-## 📂 Project Structure  
 
-- `queries.sql` → All SQL queries organized by section (1–6).  
-- `README.md` → Project documentation (this file).  
-
----
-
-## 🧑‍💻 Author  
-
-Prepared by **[Your Name]** as part of a portfolio to showcase advanced SQL querying skills.  
-
----
